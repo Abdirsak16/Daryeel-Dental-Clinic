@@ -1,3 +1,4 @@
+This the Projec that i defefded to graduate from the university
 Daryeel Dental Clinic, established in 2020 and operating in Galkaio, offers comprehensive dental care services. However, the clinic currently faces challenges in managing appointments and fee payments efficiently. To address these challenges, this proposal outlines the development of an Online Appointment and  Payment System, streamlining operations and enhancing patient convenience.
 
 Problem Statement
